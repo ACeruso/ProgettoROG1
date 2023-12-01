@@ -1,0 +1,64 @@
+<mxfile host="Electron" modified="2023-11-17T12:03:22.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="C16TW9pBtrMy3HtN9Q6c" version="22.1.2" type="device">
+  <diagram name="Pagina-1" id="TANTbyZvRHthJAp2Ub3f">
+    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IEvJpIDe3I3vxegz4YHZ-1" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IEvJpIDe3I3vxegz4YHZ-2" value="user" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IEvJpIDe3I3vxegz4YHZ-5" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IEvJpIDe3I3vxegz4YHZ-6" value="RimozioneGara" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IEvJpIDe3I3vxegz4YHZ-7" value="InserisciPilota" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IEvJpIDe3I3vxegz4YHZ-8" value="InserisciSquadra" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IEvJpIDe3I3vxegz4YHZ-9" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IEvJpIDe3I3vxegz4YHZ-10" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IEvJpIDe3I3vxegz4YHZ-12" value="VisualizzaGara" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IEvJpIDe3I3vxegz4YHZ-13" value="Logout" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IEvJpIDe3I3vxegz4YHZ-16" value="InserisciGara" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IEvJpIDe3I3vxegz4YHZ-17" value="ModificaPilota" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IEvJpIDe3I3vxegz4YHZ-18" value="VisualizzaPilota" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="604" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IEvJpIDe3I3vxegz4YHZ-19" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="604" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IEvJpIDe3I3vxegz4YHZ-20" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="604" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IEvJpIDe3I3vxegz4YHZ-21" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IEvJpIDe3I3vxegz4YHZ-22" value="VisualizzaSquadra" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IEvJpIDe3I3vxegz4YHZ-23" value="ModificaGara" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="604" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
